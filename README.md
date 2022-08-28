@@ -38,7 +38,7 @@ Core Objectives and Future Plans of RecycloMade-
 - **Use of IPFS -**
 - I have used NFT Port to mint the images clicked by the users as NFTs.
 - The images get minted as an NFT and get stored on the IPFS.
-- Implementation of NFTPORT - [https://github.com/itsdivgithub/RecycloMade/blob/main/components/MintNFT.js](https://github.com/itsdivgithub/RecycloMade/blob/main/components/MintNFT.js)
+- Implementation of NFTPORT - [https://github.com/itsdivgithub/RecycloMade/blob/master/components/MintNFT.js](https://github.com/itsdivgithub/RecycloMade/blob/master/components/MintNFT.js)
 
 
 ### TESTING GUIDE - 
