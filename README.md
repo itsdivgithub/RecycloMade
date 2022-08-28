@@ -1,8 +1,8 @@
 # RecycloMade
 
 Project Description -
-- RecycloMade is a decentralized organization that aims to encourage people to recycle waste items and make something unique & best out of it inorder to make Earth a better place to live in.
-- We aim to build a community of enthusiasts who'll help us achieve our goal of creating 10000 handmade recycled items .
+- RecycloMade is a decentralized organization that aims to encourage people to recycle waste items and make something unique & best out of it in order to make Earth a better place to live in.
+- We aim to build a community of enthusiasts who'll help us achieve our goal of creating 1 million handmade items by recycling waste items .
 
 ## Objectives
 
