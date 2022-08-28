@@ -28,9 +28,9 @@ Core Objectives and Future Plans of RecycloMade-
 - A Lottery Game to keep our supporters engaged to keep recycling waste items and by making best out of it get an equal chance of winning every day.
 
 - **Use of Chainlink -**
-- Chainlink VRF (Verifiable Random Function) - [https://github.com/itsdivgithub/RecycloMade/blob/main/backend/contracts/Raffle.sol](https://github.com/itsdivgithub/RecycloMade/blob/main/backend/contracts/Raffle.sol)
+- Chainlink VRF (Verifiable Random Function) - [https://github.com/itsdivgithub/RecycloMade/blob/master/backend/contracts/Raffle.sol](https://github.com/itsdivgithub/RecycloMade/blob/master/backend/contracts/Raffle.sol)
 - This is used to generate a random winner from the list of people who have recycled and build something best out of it on a particular day and have minted their NFTs.
-- Chainlink Keepers Functions - [https://github.com/itsdivgithub/RecycloMade/blob/main/backend/contracts/Raffle.sol](https://github.com/itsdivgithub/RecycloMade/blob/main/backend/contracts/Raffle.sol)
+- Chainlink Keepers Functions - [https://github.com/itsdivgithub/RecycloMade/blob/master/backend/contracts/Raffle.sol](https://github.com/itsdivgithub/RecycloMade/blob/master/backend/contracts/Raffle.sol)
 - This is used to automate the smart contracts by running the Verifiable Random Function to help in selecting the winner every day.
 - The checkUpkeep function will check if the lottery has ended or not.
 - the performUpkeep function will automatically execute the functions in a set time period when the day has ended. This function also automatically sends the amount to the winner of that day.
